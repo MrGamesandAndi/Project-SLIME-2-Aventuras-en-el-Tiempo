@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73207d8761ca887499272dc7eea4ccca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - matWhite: {fileID: 2100000, guid: 5f1625500bf40e345b97069fb29e13fd, type: 2}
+  - explosionRef: {fileID: 4284280388526185991, guid: 183ce7b65fbd9e74c8a9f803d018f6ce,
+      type: 3}
+  - destroyedSfx: {fileID: 8300000, guid: 53d6af13eba230148ada1f5845bdb41b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

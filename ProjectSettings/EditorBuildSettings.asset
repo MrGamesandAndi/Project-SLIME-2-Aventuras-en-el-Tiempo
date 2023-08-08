@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/General/Title.unity
+    guid: 8d6c7babcdc81dd4c94b411031d2bbbf
+  - enabled: 1
+    path: Assets/Scenes/General/Loading.unity
+    guid: a8b6e509b45e2a44683f85251d3d6a6d
+  - enabled: 1
+    path: Assets/Scenes/General/GameOver.unity
+    guid: 5294e3e2698b7a0408e6d204f0c63ac6
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/General/Intro.unity
+    guid: a037d51047efee349959a5804aac10da
+  - enabled: 1
+    path: Assets/Scenes/General/WorldSelector.unity
+    guid: c12cbdf94d400ce439c219730ef58fcc
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level1/Desert11.unity
+    guid: cf987844b96b74443919ffaeed6eec0f
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level1/Desert12.unity
+    guid: ab775f2fcf8ddc84ba2eb426d4c74a0d
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level1/Desert13.unity
+    guid: 93bb029d9d1ab094f9a09707579a0f3a
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level2/Desert21.unity
+    guid: 31de5c1c83b1863418d8d8882a931dd7
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level2/Desert22.unity
+    guid: 239f01c9899d4e64f8abffe55fd2d09c
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level2/Desert23.unity
+    guid: bd108b552dd8a80439092a1f3f1ba748
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level3/Desert31.unity
+    guid: 2496b070d06078d44904631419e2fb84
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level3/Desert32.unity
+    guid: 0a6de7a10f5400b4982865c9caf6522b
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Desert/DesertBossIntro.unity
+    guid: 5d526afa999c359439d55714dece163f
+  - enabled: 1
+    path: Assets/Scenes/Desert/Level4/Desert41.unity
+    guid: 9d945683c7fadd4418bf0a4fa7d77ca7
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Desert/DesertBossEnd.unity
+    guid: 1f375490cb960b542ad1395a82645dc0
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 1/Pirate11.unity
+    guid: a00dd0ab46db166489f96bb49bfa4bde
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 1/Pirate12.unity
+    guid: bb04682b3a6dc954198409bdd5fbaa02
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 1/Pirate13.unity
+    guid: b7bf08905b3b75e46bee59b440bf5eb8
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 2/Pirate21.unity
+    guid: e5715bd73ece2394ca055c416512f08f
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 2/Pirate22.unity
+    guid: d2dc14cb1d667cf49896d2e4903c6f82
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 2/Pirate23.unity
+    guid: 38a6ead245ade56488c53d9b29a9a672
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 3/Pirate31.unity
+    guid: 26dbcbdac3f89234d9f11c7c5d67cfb3
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 3/Pirate32.unity
+    guid: 90aab34e71e06d4478d7e82e0e43cb66
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Pirate/PirateBossIntro.unity
+    guid: d5fefdf3af534b14788ef6c7f164a7da
+  - enabled: 1
+    path: Assets/Scenes/Pirate/Level 4/Pirate41.unity
+    guid: 274a9e339a794c143be9f50e8d1cc6bb
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Pirate/PirateBossEnd.unity
+    guid: 57228f70df3a9d64c9269af672551374
+  - enabled: 1
+    path: Assets/Scenes/Future/Level 1/Future11.unity
+    guid: 7ec376371e7ba8340928dc4a67a5adcc
+  - enabled: 1
+    path: Assets/Scenes/Future/Level 1/Future12.unity
+    guid: 43b652e7979fdc847bbe7bffc8d75a11
+  - enabled: 1
+    path: Assets/Scenes/Future/Level 2/Future21.unity
+    guid: e8870449cc1c47641bb30da1066963b5
+  - enabled: 1
+    path: Assets/Scenes/Future/Level 2/Future22.unity
+    guid: d7a39c85836c4ec4fb613c5c4375884c
+  - enabled: 1
+    path: Assets/Scenes/Future/Level 3/Future31.unity
+    guid: a065952b1b944034db4e5ff917973d79
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Future/FutureBossIntro.unity
+    guid: 2a8c2e435591fb949b8da768deaaaf60
+  - enabled: 1
+    path: Assets/Scenes/Future/Level 4/Future41.unity
+    guid: b69b92fb14ab51245929d9d14f08362c
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Future/FutureBossEnd.unity
+    guid: ae090768df6b02a48b73b1c33f0fc7e5
+  - enabled: 1
+    path: Assets/Scenes/Dino/Level 1/Dino11.unity
+    guid: 16e51626a97914a4aa52942620bf64c8
+  - enabled: 1
+    path: Assets/Scenes/Dino/Level 1/Dino12.unity
+    guid: 94e9af6bb8534f24885a78c00fda9902
+  - enabled: 1
+    path: Assets/Scenes/Dino/Level 2/Dino21.unity
+    guid: ff6e3b6d38066aa438121e9e654b8dab
+  - enabled: 1
+    path: Assets/Scenes/Dino/Level 2/Dino22.unity
+    guid: dac41e260da9e72418cab32e5ae648c9
+  - enabled: 1
+    path: Assets/Scenes/Dino/Level 3/Dino31.unity
+    guid: 5c60b15c5a9eeb64889348ca5bafc4c3
+  - enabled: 1
+    path: Assets/Scenes/Dino/Level 3/Dino32.unity
+    guid: eb6304c3cb4d99344a813d0a09f0354f
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Dino/DinoBossIntro.unity
+    guid: 2c491c71a68524145be3430105873629
+  - enabled: 1
+    path: Assets/Scenes/Dino/Level 4/Dino41.unity
+    guid: 3447a7e6fa7c4f4448d9052bac2019e8
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Dino/DinoBossEnd.unity
+    guid: 808e0c680014b4b40803a18cdffd21e9
+  - enabled: 1
+    path: Assets/Scenes/Present/Level 1/Present11.unity
+    guid: c901422122be54a449c54c0fdb7ba960
+  - enabled: 1
+    path: Assets/Scenes/Present/Level 1/Present12.unity
+    guid: 4a60a2d2ce58b1048b968182c3f83a06
+  - enabled: 1
+    path: Assets/Scenes/Present/Level 2/Present21.unity
+    guid: c7cd90e7e048e0c46a22675eb0d5f593
+  - enabled: 1
+    path: Assets/Scenes/Present/Level 2/Present22.unity
+    guid: ab984e508bc0cdb448c2cd8f09021502
+  - enabled: 1
+    path: Assets/Scenes/Present/Level 3/Present31.unity
+    guid: ab4f475b77eef95458297e33a34d1aab
+  - enabled: 1
+    path: Assets/Scenes/Present/Level 3/Present32.unity
+    guid: 920b7e332f3b35d42a8872c714b3e685
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Present/PresentBossIntro.unity
+    guid: 3f6dcbf7ceb8b58428aae43de0d6f36e
+  - enabled: 1
+    path: Assets/Scenes/Present/Level 4/Present41.unity
+    guid: 252442a571a0f6047b55a39184180a9c
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Present/PresentBossEnd.unity
+    guid: 252e5467fe6a619438bf290001c7ea67
+  m_configObjects: {}
